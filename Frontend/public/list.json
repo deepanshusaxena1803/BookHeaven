@@ -1,0 +1,130 @@
+[
+    {
+        "id":1,
+        "name":"Mystery Book",
+        "title":"Enigma Encounters: A Collection of Mysterious Tales",
+        "price":0,
+        "category":"Free",
+        "image":"./images/Mystery Book.jpeg"
+    },
+    {
+        "id":2,
+        "name":"Science Fiction Book",
+        "title":"Frozen Nexus: A Snow Crash Saga Unveiled Depths",
+        "price":0,
+        "category":"Free",
+        "image":"./images/Science Fiction Book.jpeg"
+    },
+    {
+        "id":3,
+        "name":"Fantasy Book",
+        "title":"Echoes of Eden: A Journey Through Water's Realm",
+        "price":0,
+        "category":"Free",
+        "image":"./images/Fantasy Book.jpeg"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Secrets Beneath the Moonlight: Tales from the Garden of the Moon",
+        "price":0,
+        "category":"Free",
+        "image":"./images/Story Book.jpeg"
+    },
+    {
+        "id":5,
+        "name":"Thriller Book",
+        "title":"Conspiracy Unveiled: The Plotters' Web Revealed",
+        "price":0,
+        "category":"Free",
+        "image":"./images/Thriller Book.jpeg"
+    },
+    {
+        "id":6,
+        "name":"Health and Wellness",
+        "title":"Embracing Mortality: A Guide to Living Fully",
+        "price":0,
+        "category":"Free",
+        "image":"./images/Health and Wellness Book.png"
+    },
+    {
+        "id":7,
+        "name":"Art Book",
+        "title":"Brushstrokes Through Time: A Journey into the Story of Art",
+        "price":15,
+        "category":"paid",
+        "image":"./images/Art Book.jpeg"
+    },
+    {
+        "id":8,
+        "name":"Ghost Book",
+        "title":"Spectral Realms: Tales from the Ghost World",
+        "price":20,
+        "category":"paid",
+        "image":"./images/Ghost Book.jpeg"
+    },
+    {
+        "id":9,
+        "name":"Poetry Book",
+        "title":"The Tragic Love of Romeo and Juliet",
+        "price":15,
+        "category":"paid",
+        "image":"./images/Poetry Book.jpeg"
+    },
+    {
+        "id":10,
+        "name":"Travel Guide",
+        "title":"Boston Unveiled: A Traveler's Guide",
+        "price":28,
+        "category":"paid",
+        "image":"./images/Travel Guide.jpeg"
+    },
+    {
+        "id":11,
+        "name":"Recipe Book",
+        "title":"Flavors Unleashed: Recipes Galore",
+        "price":20,
+        "category":"paid",
+        "image":"./images/Recipe Book.png"
+    },
+    {
+        "id":12,
+        "name":"Personality Development",
+        "title":"Your Personal Development Guide",
+        "price":10,
+        "category":"paid",
+        "image":"./images/Personality Development.jpeg"
+    },
+    {
+        "id":13,
+        "name":"Social Sciences",
+        "title":"Social Insights: Exploring Society",
+        "price":40,
+        "category":"paid",
+        "image":"./images/Social Sciences.jpeg"
+    },
+    {
+        "id":14,
+        "name":"Sustainability Development",
+        "title":"Sustainability Limits",
+        "price":10,
+        "category":"paid",
+        "image":"./images/Sustainability Development.jpeg"
+    },
+    {
+        "id":15,
+        "name":"Crime Book",
+        "title":"Shadows of Guilt: True Crime Chronicles",
+        "price":15,
+        "category":"paid",
+        "image":"./images/Crime Book.jpeg"
+    },
+    {
+        "id":16,
+        "name":"The Science World",
+        "title":"Wonders Unveiled: Exploring Science",
+        "price":25,
+        "category":"paid",
+        "image":"./images/Science World.jpeg"
+    }
+]
